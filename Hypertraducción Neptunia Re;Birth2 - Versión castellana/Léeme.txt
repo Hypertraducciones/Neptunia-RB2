@@ -1,0 +1,146 @@
+﻿_________________________________________________________________
+
+Hypertraducción Neptunia Re;Birth 2 Versión castellana Ver. 1.01
+
+	Traducción hecha por:
+			
+					- Óscar73
+					- chaos_hedgehog
+					- DarkantosZ
+
+
+		   (c) 2015 IDEA FACTORY/COMPILE HEART/FELISTELLA                   
+_________________________________________________________________
+
+
+ 
+ 1. Introducción
+_____________________________
+
+    Este "léeme" contiene información importante sobre la 
+    traducción al castellano de Hyperdimension Neptunia
+    Re;Birth 2 para PC. Por favor, léelo antes de empezar a jugar.
+    
+    Esta traducción fue creada a partir del parche llamado "Re;birth 2 
+    Retranslation Patch", el cual retraduce los diálogos del juego 
+    para hacerlos mucho más fieles al japonés. Esto nos ayudó a mejorar
+    la calidad de la traducción, así que les damos las gracias a aquellos
+    que contribuyeron en tal proyecto. 
+
+    También queremos darles las gracias a la persona responsable de la página
+    de "modding" para Hyperdimension Neptunia, al usuario "ノラネコ" por una vez 
+	más brindarnos una herramienta necesaria para la traducción y al equipo
+	encargado de la versión latina, por conseguir que la traducción sea
+	del gusto de cualquier hispanohablente.
+
+    *Dependiendo de la recepción de esta traducción, puede que consideremos
+	traducir más Neptunias en un futuro.
+
+    *Esta traducción ha salido de nuestro grupo de Steam y está ligada 
+    y tiene el consentimiento de la versión latina.
+
+ 2. Descargo de responsabilidad
+_____________________________
+
+    Esta modificación, compilada por fanáticos del juego, fue creada con
+    el propósito de extender la accesibilidad de este producto hacia la
+    audiencia castellana. Por consiguiente, ni los usuarios ni los dueños originales
+    de esta propiedad intelectual perciben ganancia alguna de esta modificación.
+    El grupo de traducción no es ni se acredita como dueño del contenido
+    de este producto.
+	
+	Cualquiera tiene la libertad de distribuir esta modificación siempre y cuando
+	el grupo de traducción sea mencionado y reconocido como el responsable de la misma, 
+	no se distribuya comercialmente, y no se modifique este "léeme".
+
+
+ 3. Requisitos del sistema
+_____________________________
+
+    Hyperdimension Neptunia Re;Birth 2 en PC usa el API "OpenGL", 
+    utilizado para renderizar los gráficos 2D y 3D, el cual puede ser
+    ejecutado por la mayoría de ordenadores modernos. Se recomienda
+    usar tarjetas gráficas dedicadas.
+
+    Los requisitos mínimos son:
+
+	OS        Windows 7 (64bit)
+	CPU       Core2Duo 2.66 GHz
+	RAM       4 GB RAM  
+	Video     DirectX 10.x u OpenGL 3.3 con una tarjeta gráfica con 1GB RAM que sea compatible con v4 shaders
+	DirectX   Versión 10
+	HDD       7 GB de espacio libre
+	SOUND	  DirectX 9.0c compatible
+
+    Los requisitos recomendados son:
+
+	OS        Windows 7 o 8 (64bit) o más moderno
+	CPU       3GHz Intel i3 o equivalente
+	RAM       6 GB RAM 
+	Video     DirectX 10.x u OpenGL 3.3 con una tarjeta gráfica con 1GB RAM que sea compatible con v4 shaders
+	DirectX   Versión 10
+	HDD       7 GB de espacio libre
+	SOUND	  DirectX 9.0c compatible
+
+    *Notas adicionales: Quizás no funcione adecuadamente en sistemas Windows 7 y 8 (32bit).
+    *Información obtenida de la página del juego en la tienda Steam.
+
+ 4. Instalación
+_____________________________
+
+    Para instalar la traducción al castellano de Hyperdimension Neptunia Re;Birth 2, 
+    ejecuta el instalador y haz click en el botón "Instalar." 
+    
+    MÉTODO ALTERNATIVO SI EL INSTALADOR CAUSA ALGÚN PROBLEMA
+    Crea una carpeta llamada "neptools" en el directorio del juego, extrae y mueve 
+    todo el contenido dentro de la carpeta llamada ReBirth2 (que contiene 
+    "data" y "DLC") a "neptools", y simplemente ejecuta el juego desde Steam 
+    o con el .exe incluido en el mismo.
+	
+    *Asegúrate de también mover el archivo "dinput8.dll" al directorio del juego.
+
+    EJEMPLO DE DIRECTORIO: 
+	C:\Program Files (x86)\Steam\steamapps\common\Neptunia Rebirth2
+    
+
+ 5. Información de contacto
+_____________________________
+
+    Si experimentas algún problema con esta versión o encuentras
+    algún error o defecto, infórmanos, por favor, haremos lo posible 
+    por resolverlo. No contactes con IDEA FACTORY INTERNATIONAL sobre
+    esta traducción, por favor. Comunícanos los problemas y/o comentarios
+	que tengas directamente a los siguientes contactos.
+  
+    Óscar73
+    	http://steamcommunity.com/id/Oscar73/
+	
+    chaos_hedgehog
+	http://steamcommunity.com/id/chaos_hedgehog_89/
+
+    DarkantosZ
+    	http://steamcommunity.com/id/DarkantosZ/
+
+
+    CONTACTOS ADICIONALES:
+
+    Hilo en EOL:
+	http://www.elotrolado.net/hilo_proyecto-traduccion-al-espanol-de-hyperdimension-neptunia-re-birth2-en-proceso_2120335
+
+    IDEA FACTORY INTERNATIONAL
+        http://www.ideafintl.com/
+
+
+ 6. Historial de las versiones
+_____________________________
+
+    30/12/2016  Versión 1.01 distribuida
+	-Enemigo "Rábano" renombrado como "Rábanorier"
+	-Enemigo "Berenjena" del contenido descargable núm. 3 renombrado como "Berenjenorier"
+	-Objeto "Esporas de Fungus" renombrado como "Esporas de Hongo"
+	-Objeto "Engranaje congelado" del contenido descargable núm. 3 renombrado como "Ala congelada"
+	-Objeto "Mayor ratio de obtención de objetos" renombrado como "Cazador de tesoros"
+	-Correcciones de mayúsculas y minúsculas en varios objetos y enemigos
+	-Arreglos menores en el instalador
+
+    19/12/2016	Versión 1.00 distribuida
